@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
-## If you are interested i my Repo: Contact ME ☎️
+## If you are interested in my Repo: Contact ME ☎️
 ![](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white) lee03260@gmail.com
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&reversal=true&color=auto&section=footer)
