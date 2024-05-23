@@ -10,12 +10,10 @@
 - Deep learning
 - Web Front-end, Back-end
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknwonD&show_icons=true)
-
+![Daeho's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknwonD&hide=contribs,prs&show_icons=true&theme=dracula)
 
 ## Stack 🖥
-![Daeho's stats](https://github-readme-stats.vercel.app/api?username=UnknwonD&hide=contribs,prs&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknwonD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 ![](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 <br/>
