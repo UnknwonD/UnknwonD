@@ -10,7 +10,11 @@
 - Deep learning
 - Web Front-end, Back-end
 
-![Daeho's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknwonD&hide=contribs,prs&show_icons=true&theme=dracula)
+
+![Daeho's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknwonD&show_icons=true&theme=dracula)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daeho5000)](https://solved.ac/daeho5000/)
+
+
 
 ## Stack 🖥
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknwonD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
