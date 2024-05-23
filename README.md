@@ -1,7 +1,3 @@
-### Revamped README for UnknwonD
-
----
-
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=twinkling&reversal=true&color=auto&height=300&section=header&text=UnKnwon%20:D&fontSize=80)
 
 # Hi! I'm UnknwonD 📁
@@ -41,5 +37,3 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&&reversal=true&color=auto&section=footer)
 
 ---
-
-This updated README now focuses on data science, deep learning, and machine learning, with relevant technologies and tools highlighted in the tech stack section.
