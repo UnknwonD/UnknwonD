@@ -6,9 +6,9 @@
 
 ## Technologies & Skills
 - 📚 Data Structure
+- 📊 Data Analysis
 - 👁️ Computer Vision
 - 🧠 Deep Learning
-- 🌐 Web Development (Front-end & Back-end)
 
 ## Tech Stack 🖥
 
