@@ -10,6 +10,10 @@
 - 👁️ Computer Vision
 - 🧠 Deep Learning
 
+## BLOG & PortPolio
+- [BLOG](https://today-knowlodge.tistory.com/)
+- [PortPolio](http://daeho5000.notion.site/)
+
 ## Tech Stack 🖥
 
 ### Programming Languages
