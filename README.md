@@ -30,8 +30,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-## GitHub Stats
-![UnknwonD's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknwonD&show_icons=true&theme=dracula)
+## Solved
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daeho5000)](https://solved.ac/daeho5000/)
 
 <p align="center">
