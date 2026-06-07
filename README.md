@@ -34,7 +34,7 @@
 ## Solved
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daeho5000)](https://solved.ac/daeho5000/)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://today-knowlodge.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/BLOG-Visit-FF5722?style=for-the-badge&logo=blogger" alt="BLOG" />
   </a>
@@ -42,7 +42,7 @@
   <a href="http://daeho5000.notion.site/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=notion" alt="Portfolio" />
   </a>
-</p>
+</p> -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&reversal=true&color=auto&section=footer)
 
