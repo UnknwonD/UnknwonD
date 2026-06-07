@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=twinkling&reversal=true&color=auto&height=300&section=header&text=UnKnwon%20:D&fontSize=80)
 
 # Hi! I'm UnknwonD 📁
+- 🌟 **Automation**
 - 🌟 **Data Scientist**
 - 💡 **AI Developer**
 
